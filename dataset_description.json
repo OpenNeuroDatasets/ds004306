@@ -1,0 +1,24 @@
+{
+  "Name": "MultisensoryDataset",
+  "BIDSVersion": "1.7.0",
+  "DatasetType": "raw",
+  "License": "",
+  "Authors": [
+    "Holly Wilson",
+    "Mohammad Golbabaee",
+    "Michael Proulx",
+    "Eamonn O'Neill"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "EPSRC"
+  ],
+  "EthicsApprovals": ["PREC"],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:"
+}
