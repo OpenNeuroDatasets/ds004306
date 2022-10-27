@@ -3,5 +3,3 @@ The task consisted of imagining and perceiving stimuli from three modalities; vi
 
 The dataset provided consists of the raw EEG data, a pre-processed version, and an epoched version. 
 
-
-The BCI protocol consisted of two conditions, namely the kinesthetic imagination of grasping movement (MI) of the dominant hand and rest/idle condition.Five protocol runs were asked to be performed by the user. The first run, called RUN0, involved real grasping movement in order to better explain the protocol and to help the subject to focus on the sensation of making the movement. The rest of the runs (RUN1-RUN4) were equal, consisting of MI vs.Rest conditions. The EMG signals of the dominant hand was adquired for protocol control. During acquisition, the EEG signals were filtered between 0.5 and 45 Hz with a 3rd order Butterworth bandpass-filter.
