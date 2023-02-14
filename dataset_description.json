@@ -1,5 +1,5 @@
 {
-    "Name": "MultisensoryDataset",
+    "Name": "EEG Semantic Imagination and Perception Dataset",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "License": "CC0",
